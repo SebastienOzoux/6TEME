@@ -1,11 +1,11 @@
 {
-  "name": "MERN-boilerplate",
+  "name": "MERN-6teme-app",
   "version": "1.0.0",
-  "description": "MERN stack project boilerplate",
-  "author": "Eugene Cheung",
+  "description": "MERN 6teme app project",
+  "author": "Sebastien Ozoux",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arkon/MERN-boilerplate.git"
+    "url": "git+https://github.com/SebastienOzoux/6TEME.git"
   },
   "license": "MIT",
   "private": true,
@@ -22,6 +22,8 @@
     "@babel/preset-react": "^7.0.0-beta.42",
     "autoprefixer": "^8.2.0",
     "babel-loader": "^8.0.0-beta.2",
+    "bcrypt": "^3.0.2",
+    "chart.js": "^2.7.3",
     "connect-history-api-fallback": "^1.5.0",
     "copy-webpack-plugin": "^4.5.1",
     "css-loader": "^0.28.11",
@@ -31,8 +33,10 @@
     "mongoose": "^5.0.11",
     "node-sass": "^4.7.2",
     "nodemon": "^1.17.2",
+    "npm": "^6.4.1",
     "postcss-loader": "^2.1.3",
     "react": "^16.2.0",
+    "react-chartjs-2": "^2.7.4",
     "react-dom": "^16.2.0",
     "react-hot-loader": "^4.0.0",
     "react-router": "^4.2.0",

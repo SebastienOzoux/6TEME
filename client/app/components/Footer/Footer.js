@@ -2,8 +2,9 @@ import React from 'react';
 
 const Footer = () => (
   <footer>
-    <hr />
-    <p>Footer</p>
+    <div class="text-muted-dark navbar-dark">
+    <small>Copyright @ 6TEME - 2018</small>
+  </div>
   </footer>
 );
 
